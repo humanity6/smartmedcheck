@@ -1,0 +1,9 @@
+Flask
+pandas
+scikit-learn
+joblib
+numpy
+openai
+python-dotenv
+Gunicorn
+logging
